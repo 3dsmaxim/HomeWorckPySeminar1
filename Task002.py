@@ -8,8 +8,7 @@
 
 # numberEnter = str(input('Введите 3-х значное число: '))
 # while int(numberEnter) < 100 or int(numberEnter) > 999:
-#     numberEnter = str(
-#         input('Неверный ввод \nПовторите вводе 3-х значного числа: '))
+#     numberEnter = str(input('Неверный ввод \nПовторите вводе 3-х значного числа: '))
 # print('Сумма цифр трехзначного числа = ', int(numberEnter[0]) + int(numberEnter[1]) + int(numberEnter[2]))
 
 
